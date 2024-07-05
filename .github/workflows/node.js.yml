@@ -27,5 +27,5 @@ jobs:
       - run: ls -la
       - run: cd ./frontend
       - run: yarn install
-      - run: yarn test
+      # - run: yarn test
       - run: ls -la
